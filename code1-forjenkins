@@ -49,3 +49,6 @@ print(four_char_strings(a_string))
 test_no_duplicates()
 test_reversed_words()
 test_four_char_strings()
+
+
+check-checknuris
